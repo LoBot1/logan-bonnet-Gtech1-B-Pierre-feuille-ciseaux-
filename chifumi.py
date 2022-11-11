@@ -57,13 +57,11 @@
 
 # definir une fonction CoupLancé de parametre joueur_1_coup, joueur_2_coup 
     #assigner a joueur_1_coup un input de parametre ("Choisissez un chiffre:\n0: pierre = 1\n1: feuille = 2 \n2: ciseaux = 3 \n-> ") en int 
-    #renvoyer le retour de l'execution de la fonction game 
     #si le retour de l'execution du retour de l'execution de la fonction joueurAdverse est egale a 0 
-        #assigner a joueur_2_coup un input de parametre ("Choisissez un chiffre:\n0: pierre = 1\n1: feuille = 2 \n2: ciseaux = 3 \n-> ") en int 
-        #renvoyer le retour de l'execution de la fonction game 
+        #assigner a joueur_2_coup un input de parametre ("Choisissez un chiffre:\n0: pierre = 1\n1: feuille = 2 \n2: ciseaux = 3 \n-> ") en int  
     #sinon si le retour de l'execution du retour de l'execution de la fonction joueurAdverse est egale a 1 
         #alors renvoyer le retour de l'execution de la fonction choixOrdinateur (nom de la fonction choixRandom)
-
+#renvoyer le retour de l'execution de la fonction game 
         
 
 
